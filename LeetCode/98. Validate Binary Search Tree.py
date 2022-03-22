@@ -8,7 +8,7 @@
 #We check 3 conditions simultaneously:-
 # 1)  Check if root.val is greater than left and lesser than right
 # 2) Recursively call the function , where for the recursive call of root.left, the parameter right is set to root.val
-# 3) Recursively call the function , where for the recursive call of root.right, the parameter left is set to root.val
+# 3) Recursively call the function , where for the recursive call of root.right, the parameter left is set to root.val#
 
     # Definition for a binary tree node.
     # class TreeNode(object):
